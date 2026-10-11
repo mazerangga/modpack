@@ -1,0 +1,13 @@
+name = "adieyr-modpack"
+author = "Aditya R fauzi"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e66025f5736871fb97e234e8d1cf67941172f1619ec22c0ea5482d61855aa075"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.3"
