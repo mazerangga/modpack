@@ -1,0 +1,13 @@
+name = "Villager Trade Reroll"
+filename = "librarian-filter-fabric-26.3-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CGVYWz2f/versions/Ud74AlML/librarian-filter-fabric-26.3-1.0.1.jar"
+hash-format = "sha512"
+hash = "7d36fbc0bdf031e033b30dc4fa56c0531fccb2d7096722c107243020bbfd85adec99904eadbb2ea9208a7c0b71fbeb4c11a14d15ad3cecfda2266c35fce97fcc"
+
+[update]
+[update.modrinth]
+mod-id = "CGVYWz2f"
+version = "Ud74AlML"

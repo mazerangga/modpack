@@ -1,0 +1,13 @@
+name = "Call Your Horse"
+filename = "call-your-horse-v2.2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QuDyXDNw/versions/NWWkf2cY/call-your-horse-v2.2.0.0.jar"
+hash-format = "sha512"
+hash = "b610cd92d064165c825fb4920b8de1e265606c5a2ae57beafb99eba88fbdd52336adaa1d92e632b9cc9e83d1afd3bade5c1ed1473c57d8f06c21635d2ab885f7"
+
+[update]
+[update.modrinth]
+mod-id = "QuDyXDNw"
+version = "NWWkf2cY"

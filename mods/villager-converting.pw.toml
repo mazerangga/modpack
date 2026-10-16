@@ -1,0 +1,13 @@
+name = "Villager Converting"
+filename = "villagerconverting-fabric-2.0.2+26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gtsvJo80/versions/CNWh8vEW/villagerconverting-fabric-2.0.2%2B26.3.jar"
+hash-format = "sha512"
+hash = "61a81e4c0ecf88fe09160939b6f5b49446967abac1235e20a36823e98be56cc31a705fafb03cc86b52f5fe8e2fbd172c19cddb7559b5f2fb39f97028975b672e"
+
+[update]
+[update.modrinth]
+mod-id = "gtsvJo80"
+version = "CNWh8vEW"

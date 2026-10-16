@@ -1,0 +1,52 @@
+# mods.txt - satu slug Modrinth per baris. Baris yang diawali # diabaikan.
+# Dibuat dari report.txt (check_mods.py) untuk target Minecraft 26.3.
+# Tambah mod baru: tulis slug-nya di baris baru, lalu jalankan ulang build-pack.sh
+
+# --- Sudah ada versi Fabric untuk 26.3 -------------------------------------
+audaki-cart-engine
+call-your-horse
+call-your-nautilus
+capes                       # client-only
+chunky
+cloth-config
+collective
+craft-elytra
+easylibrariantrade
+essential-commands
+fabric-api
+fallingtree
+ferrite-core
+floodgate
+forge-config-api-port
+geyser                      # beta di 26.3, bisa terlewat oleh packwiz
+hopo-better-underwater-ruins
+inventory-mending
+jade
+lib-5555ff
+lithium
+luckperms
+mending-plus-infinity-by-uiinpui
+midnightlib
+minecart-chain              # wajib di client
+polymer
+potion-stacking
+puzzles-lib
+spark
+spawn-animations
+strawberrylib               # wajib di client
+trading-post                # wajib di client
+travelersbackpack           # wajib di client
+universal-graves
+villager-converting
+worldedit
+
+# --- Belum ada versi 26.3 di Modrinth (akan masuk failed.txt di 26.3) -------
+dynamic-lights
+guard-villagers-fabricquilt
+ironchest
+pet-vault
+
+# --- Tidak dikenali lewat hash, slug ini tebakan ---------------------------
+skinsrestorer
+
+# Tidak ada di Modrinth, tambah manual kalau perlu: discord-rpc (client-side)

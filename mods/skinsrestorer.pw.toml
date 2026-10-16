@@ -1,0 +1,13 @@
+name = "SkinsRestorer"
+filename = "SkinsRestorer-Mod-Fabric-15.12.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TsLS8Py5/versions/XuyP5rdG/SkinsRestorer-Mod-Fabric-15.12.6.jar"
+hash-format = "sha512"
+hash = "907a8f9ea0f8aaa79765400f13f6a16e49480036abeffc39ea2e214a6c7397241bcedadf04597f289428ae3e602d6a84ca76a77105052b1b6d0a991903debdb5"
+
+[update]
+[update.modrinth]
+mod-id = "TsLS8Py5"
+version = "XuyP5rdG"

@@ -1,0 +1,13 @@
+name = "5555ff-lib"
+filename = "lib-5555ff-v1.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Lr1LVAwO/versions/swXKVVC6/lib-5555ff-v1.3.2.jar"
+hash-format = "sha512"
+hash = "548d5133c07e891ede172c6c4e7d9e1e7b9df2b54f083c4e50a3709d79f9d519789c66301d2d1947036bb79957e38757c16dd06f7ac15dd32600b38dee3bda93"
+
+[update]
+[update.modrinth]
+mod-id = "Lr1LVAwO"
+version = "swXKVVC6"

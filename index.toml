@@ -1,6 +1,191 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/audaki-cart-engine.pw.toml"
+hash = "7183f587a72430e958d9c5bee121c50e5f1ffceb5d16122103123db1a6b36f75"
+metafile = true
+
+[[files]]
+file = "mods/call-your-horse.pw.toml"
+hash = "664d6396b471cb6ff7d4be14e98ceb75216bd0da4f8383b7bfe9decb2cf1fa1e"
+metafile = true
+
+[[files]]
+file = "mods/call-your-nautilus.pw.toml"
+hash = "55bc75e44334688e89b1b102c0481844049583256bbff9a87f945d4d3b87cd50"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "8462f48f7578d8c8828d56cb92149051757aab03fd7621e6590bf6877bc53024"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "8e4512056e448a6f3d1ac179961eb699c15fbe000284e0aee041b5971b417302"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "2b9727522c90a979eb9671ad7c5421443d91391b0697d1772146e6bfa19cb3c1"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "7e3d364a831d96c8aa2bc6d385812308a38d6561ebff6dd13781400be4e3ce40"
+metafile = true
+
+[[files]]
+file = "mods/craft-elytra.pw.toml"
+hash = "b74f84e31ba436e4536bbbd18289dce15db4277eb0cdbf4f8dcf5816d3c5aed6"
+metafile = true
+
+[[files]]
+file = "mods/easylibrariantrade.pw.toml"
+hash = "b4ba73f9574a08aa02c670b1ab9f25c4d6298cce6d42aab8e38530012ebcdd6e"
+metafile = true
+
+[[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "1904e0f0926f243858ce05e539c7b2809a852cd4e8bbade36b1a824627a2a70b"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "5650bba7cb2d17f5ac1c543ee6c0d72560624aa530e1dc51d2aa9772e96d991a"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "1811d49906aa7a1e7f1230535c6fec91be45129d028f7900cf35571a497e42b3"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "4aa3d28574ec613d68f1c30d65002f69da664960c1ef04ca058a52cbbd0317e9"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
+metafile = true
+
+[[files]]
+file = "mods/floodgate.pw.toml"
+hash = "0673db3ecd0d63d465295bde93d1b5c938ea563cf1942daf4908802874b21b58"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "3eb12471fce0aadbda432f7fd5ba4e2120e0e0ebbb3663eea756a17ec0254407"
+metafile = true
+
+[[files]]
+file = "mods/geyser.pw.toml"
+hash = "ab81b86fdde958dc781c7f91e26d16c66534d49c59bfe45cf13b64fa290a9749"
+metafile = true
+
+[[files]]
+file = "mods/hopo-better-underwater-ruins.pw.toml"
+hash = "dd88f43f6f6cdcc1e1e8c95036ee2e729d55b35f06e438e2b615d99f233766b0"
+metafile = true
+
+[[files]]
+file = "mods/inventory-mending.pw.toml"
+hash = "b6c0e67dd4bbce5801ee2d7b3f668de1aad1493d6488f563597ccb5ecb6c600c"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "6a9c2f3995f8bf6d9b5dc0f711f22665c3c0ad488b0f4f04cf423c6f1f305ba6"
+metafile = true
+
+[[files]]
+file = "mods/lib-5555ff.pw.toml"
+hash = "78be7732c707dfbf1549786a92470e2554330797cb8d73d5778b90db9fe11165"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "a39389e4c813b70b984a0c8aed769825b32c321ee0b9aed1151d92cb38f77357"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "6ad4fe85740b1fa65e7190b3275dc467ea94c3184c9a657897a22d03484a1884"
+metafile = true
+
+[[files]]
+file = "mods/mending-plus-infinity-by-uiinpui.pw.toml"
+hash = "97c1c7d11329e4b5620105031d3ef182287c079abd8b930d0dc72bc18b45a01f"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "f364f593df41130f37f525028432f9a3e1501e5781605482a1f28631cf807284"
+metafile = true
+
+[[files]]
+file = "mods/minecart-chain.pw.toml"
+hash = "77d3bf4097d0c0f0c509d178519c0a6b24a5d3e019c6ffc1dbb76f8b0e54bde3"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "c2b34e0c7fb9589b7fde83f0764998afc7f46024f58850b908c3a280c0a1bd3c"
+metafile = true
+
+[[files]]
+file = "mods/potion-stacking.pw.toml"
+hash = "e865007edb8cc84de349d41a6fad3249b72445045d617162595969b0a5cc915a"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "1468fe3ca18b35fc53563de46046b3ada11913f1ca2a74b057437474128df85a"
+metafile = true
+
+[[files]]
+file = "mods/skinsrestorer.pw.toml"
+hash = "9f992fe121484b051a046a7a824f55a62fc73403ceabe910a307b1735de692cc"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "9b0969e4afbc18124775c008361dc1cfb9a17e49098d93d067b6342a4a54427c"
+metafile = true
+
+[[files]]
+file = "mods/spawn-animations.pw.toml"
+hash = "5e91e5aea16a60450da6df9c5cdb056ae5f2d25967fcc8b16c7ccb3a7403b7c9"
+metafile = true
+
+[[files]]
+file = "mods/strawberrylib.pw.toml"
+hash = "b44c8e45eaa44129913928bbc0174ec5eb0f9ec10a918231dd8dfad1ab94e2da"
+metafile = true
+
+[[files]]
+file = "mods/trading-post.pw.toml"
+hash = "e7a56ac6d1934ecd1fa9414dce052d0c81dde1ae111c404ea9fa9ca0da7e91d8"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "e352d420835c1a74eefcf18649804d470049aded176d759167bb9b3e15323fd8"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "52a4b40e5afac13570eb7fc9bb96a923644254bbaac923a70cd64acbe9a872c6"
+metafile = true
+
+[[files]]
+file = "mods/villager-converting.pw.toml"
+hash = "9f0c609d9f9b3db7c0590afa739367d69b8f8b7501957401c7d13548c3073686"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "7a5c3bfa2b6572c8e2d859e77798fdad5c69bdc027e4040d4f98f53e812875a5"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Call Your Nautilus"
+filename = "call-your-nautilus-v1.4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K9DyYgW3/versions/MD3IG05e/call-your-nautilus-v1.4.0.0.jar"
+hash-format = "sha512"
+hash = "1f204a10211e1c4be9aa42b40a595d3924f27686448cf47cd4026d36a6713b12ae4e55fa8b4c4a363afe1ae5077d322d63f63ccc4fe65fa82899848d6f030f46"
+
+[update]
+[update.modrinth]
+mod-id = "K9DyYgW3"
+version = "MD3IG05e"
