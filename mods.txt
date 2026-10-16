@@ -9,8 +9,10 @@ call-your-nautilus
 capes                       # client-only
 chunky
 cloth-config
+continuity
 collective
 craft-elytra
+custom-block-highlight
 easylibrariantrade
 essential-commands
 fabric-api
@@ -39,6 +41,8 @@ travelersbackpack           # wajib di client
 universal-graves
 villager-converting
 worldedit
+xaeros-minimap
+xaeros-world-map
 
 # --- Belum ada versi 26.3 di Modrinth (akan masuk failed.txt di 26.3) -------
 dynamic-lights
