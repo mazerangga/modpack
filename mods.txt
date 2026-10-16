@@ -13,6 +13,7 @@ continuity
 collective
 craft-elytra
 custom-block-highlight
+lambdynamiclights
 easylibrariantrade
 essential-commands
 fabric-api
