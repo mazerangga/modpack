@@ -36,8 +36,18 @@ hash = "7e3d364a831d96c8aa2bc6d385812308a38d6561ebff6dd13781400be4e3ce40"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "aad07f6496bbf478116eaa0e82fa7fbdd022ca755b392029193e1090d76716b3"
+metafile = true
+
+[[files]]
 file = "mods/craft-elytra.pw.toml"
 hash = "b74f84e31ba436e4536bbbd18289dce15db4277eb0cdbf4f8dcf5816d3c5aed6"
+metafile = true
+
+[[files]]
+file = "mods/custom-block-highlight.pw.toml"
+hash = "d228b32ca99ecf2c41b835c104617337cb1769516aa13a2d14a1954f5430431d"
 metafile = true
 
 [[files]]
@@ -96,6 +106,11 @@ hash = "b6c0e67dd4bbce5801ee2d7b3f668de1aad1493d6488f563597ccb5ecb6c600c"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "6afdd9a4f55afb1f553f2cef664d05c70680263cfb327f951755452f2c34670d"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "6a9c2f3995f8bf6d9b5dc0f711f22665c3c0ad488b0f4f04cf423c6f1f305ba6"
 metafile = true
@@ -103,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/lib-5555ff.pw.toml"
 hash = "78be7732c707dfbf1549786a92470e2554330797cb8d73d5778b90db9fe11165"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "d1835fa094e5e072919e78f8849a1342a022b1076b94db3effd30871d92e71cc"
 metafile = true
 
 [[files]]
@@ -188,4 +208,19 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "7a5c3bfa2b6572c8e2d859e77798fdad5c69bdc027e4040d4f98f53e812875a5"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "2370e1441f428ef911b96cb4511c938a7a327a2fa97045949c5530da1c0635e8"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "e64b0d3e2bab7c261fa936c79c7b33baba9d8b16ac5171e8687ba71094903629"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "7b82bfcde20d2ac0fb158c003caf5288523272ca462f519864ee424912e4e4dd"
 metafile = true
