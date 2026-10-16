@@ -5,8 +5,7 @@
 # --- Sudah ada versi Fabric untuk 26.3 -------------------------------------
 audaki-cart-engine
 call-your-horse
-call-your-nautilus
-capes                       # client-only
+call-your-nautilus                       # client-only
 chunky
 cloth-config
 continuity
