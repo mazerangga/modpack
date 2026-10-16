@@ -23,6 +23,7 @@ forge-config-api-port
 geyser                      # beta di 26.3, bisa terlewat oleh packwiz
 hopo-better-underwater-ruins
 inventory-mending
+inventory-profiles-next
 jade
 lib-5555ff
 lithium
